@@ -1,0 +1,231 @@
+{
+  "uuid": "1a60934c5f2f47f99a741c92afd63b4b",
+  "path": "Offline/PMD_PROJECT",
+  "name": "PMD_PROJECT",
+  "content": "8086\nTurcin Cristian",
+  "created_at": "2023-11-04 12:55:28",
+  "updated_at": "2023-11-04 15:48:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "56ba39fe31027b381ca6601f153ec7cb",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "db377777d18248318c8bf9fb32fe03fb": 1,
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 1,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 3,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 1,
+        "61e99aea7ae4418b97f176260d901a89": 2,
+        "146e283a2ef4423594bc3e76903bd89d": 1,
+        "c300e13e3b614ec4b1f66ff653d20aa2": 2,
+        "822b968a85b44cb494ed9638ba22433e": 5,
+        "f952cec763f94201a597f09c30206ce0": 1,
+        "d7adca4e50b44210a11e5e0b64b3f839": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "OR",
+          2,
+          "",
+          "A1,A2",
+          {
+            "Contributor": "Marco Micheletto",
+            "spiceSymbolName": "OR",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "d7adca4e50b44210a11e5e0b64b3f839"
+          }
+        ],
+        [
+          "0.1u",
+          3,
+          "C0603",
+          "C1,C2,C3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592",
+            "Manufacturer": "BLUE ROCKET",
+            "Manufacturer Part": "1N4007W",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Supplier Part": "C118141",
+            "Supplier": "LCSC",
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Contributor": "LCEDA_Lib",
+            "制造商": "韩国韩荣",
+            "spiceSymbolName": "K2-3.6×6.1_SMD",
+            "puuid": "daacbe2eec304950b61eef2efe596556",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "InvertorSmall",
+          5,
+          "",
+          "U1,U9,U10,U11,U12",
+          {
+            "spiceSymbolName": "LOGIC",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Bilal Khan",
+            "sim": "true",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "822b968a85b44cb494ed9638ba22433e"
+          }
+        ],
+        [
+          "MD8284A/B",
+          1,
+          "CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL",
+          "U2",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3610662",
+            "Manufacturer": "罗彻斯特",
+            "Manufacturer Part": "MD8284A/B",
+            "link": "https://lcsc.com/eda_search?q=C3610662&%26type=1&ref=editor",
+            "spiceSymbolName": "MD8284A/B",
+            "puuid": "44f24d2bbe6f46ab811d4dfad0dcdce5",
+            "uuid": "db377777d18248318c8bf9fb32fe03fb"
+          }
+        ],
+        [
+          "AT27C1024-70JU-T",
+          2,
+          "PLCC-44_L16.6-W16.6-P1.27-LS17.5-T",
+          "U3,U4",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2061096",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Manufacturer Part": "AT27C1024-70JU-T",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2061096&%26type=1&ref=editor",
+            "spiceSymbolName": "AT27C1024-70JU-T",
+            "puuid": "892ce0ce14f24d3b821c5d091a35780b",
+            "uuid": "61e99aea7ae4418b97f176260d901a89"
+          }
+        ],
+        [
+          "HM62256BLTM-4SL",
+          2,
+          "TSSOP28",
+          "U5,U7",
+          {
+            "Contributor": "KiCad",
+            "spiceSymbolName": "HM62256BLTM-4SL",
+            "Manufacturer Part": "",
+            "puuid": "8561a9af682d411b8f1d6944ad441d09",
+            "uuid": "c300e13e3b614ec4b1f66ff653d20aa2"
+          }
+        ],
+        [
+          "74X138",
+          1,
+          "IC16",
+          "U6",
+          {
+            "Contributor": "KiCad",
+            "spiceSymbolName": "74X138",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "146e283a2ef4423594bc3e76903bd89d"
+          }
+        ],
+        [
+          "8086MIN",
+          1,
+          "DIP40",
+          "U8",
+          {
+            "spiceSymbolName": "8086MIN",
+            "Manufacturer Part": "",
+            "puuid": "44a1693bc7854116bd8e6d16b2b3ee36",
+            "uuid": "f952cec763f94201a597f09c30206ce0"
+          }
+        ]
+      ],
+      "updateTime": 1699105719,
+      "createTime": 1699095328,
+      "histories": [],
+      "created_at": "2023-11-04 12:55:28",
+      "updated_at": "2023-11-04 15:48:39"
+    }
+  ],
+  "sort": [],
+  "title": "PMD_PROJECT",
+  "foldername": "PMD_PROJECT",
+  "schfilename": "PMD_PROJECT.json",
+  "schfilemtime": 1699105719989
+}
