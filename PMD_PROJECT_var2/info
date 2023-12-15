@@ -1,0 +1,435 @@
+{
+  "uuid": "a38a13e4d3a7165aadc6d02d76d0907b",
+  "path": "Offline/PMD_PROJECT_var2",
+  "name": "PMD_PROJECT_var2",
+  "content": "",
+  "created_at": "2023-12-04 17:14:39",
+  "updated_at": "2023-12-15 03:47:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "bc0c338ebf4896e07f97e054bdbc2766",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "db377777d18248318c8bf9fb32fe03fb": 1,
+        "bb009484ef804a24ac5d18c54b249586": 13,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 5,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 6,
+        "61e99aea7ae4418b97f176260d901a89": 1,
+        "f952cec763f94201a597f09c30206ce0": 1,
+        "2795175d74774c50a4d477369d54edd8": 1,
+        "f400981b32064fd08f8ca81cc9913fbf": 2,
+        "10113c0feaf140a5a6b590b6e069ad91": 11,
+        "146e283a2ef4423594bc3e76903bd89d": 3,
+        "38abdfb0b97c4f71a493b25aabbac501": 4,
+        "d7adca4e50b44210a11e5e0b64b3f839": 2,
+        "7837dc9444fe4f86af267b132e5a76af": 1,
+        "81abc5999b1f4541837195bff8d31e41": 1,
+        "befb341c6f8bdb97dab1adf4588d2553": 1,
+        "1bfd1aacc05943cdac124fed54c0f09e": 1,
+        "0fe05556ebed4b44aae93579cb814825": 9,
+        "523365e3979c4fb0a6fae05c4d8b9566": 3,
+        "5024af68f9b64f9bb27162fe418e0558": 1,
+        "9dedeb579c044d25aa5c85d67590c97e": 16,
+        "dc0fcc62af3f479e8ba95e8a83e4c107": 16,
+        "822b968a85b44cb494ed9638ba22433e": 11,
+        "dfdf002ec1484d0fad523511076b340d": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "button",
+          16,
+          "32TEETH---CONDUCTIVE-BUTTONS_CONDUCTIVE_BUTTON_DIRECTIONAL_THICK",
+          "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+          {
+            "Contributor": "LorenzoVonMatterhorn",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "button",
+            "Manufacturer Part": "",
+            "puuid": "2432afa50a2d481e92fc14f2e46d1660",
+            "uuid": "9dedeb579c044d25aa5c85d67590c97e"
+          }
+        ],
+        [
+          "OR",
+          2,
+          "",
+          "A1,A2",
+          {
+            "Contributor": "Marco Micheletto",
+            "spiceSymbolName": "OR",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "d7adca4e50b44210a11e5e0b64b3f839"
+          }
+        ],
+        [
+          "0.1u",
+          6,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1N4007W",
+          5,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4,D5",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592",
+            "Manufacturer": "BLUE ROCKET",
+            "Manufacturer Part": "1N4007W",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "diode led",
+          16,
+          "DO-41 (1N4007)_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16",
+          {
+            "Supplier": "",
+            "Manufacturer": "ST(先科)",
+            "Manufacturer Part": "1N4007",
+            "Supplier Part": "C106903",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "remnow99",
+            "Value": "Diode",
+            "spiceSymbolName": "diode led",
+            "puuid": "ce07828774e641859a727dfbf65cc8b2",
+            "uuid": "dc0fcc62af3f479e8ba95e8a83e4c107"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Supplier Part": "C118141",
+            "Supplier": "LCSC",
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Contributor": "LCEDA_Lib",
+            "制造商": "韩国韩荣",
+            "spiceSymbolName": "K2-3.6×6.1_SMD",
+            "puuid": "daacbe2eec304950b61eef2efe596556",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "1k",
+          13,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          8,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7,SEG8",
+          {
+            "Manufacturer": "志浩",
+            "Manufacturer Part": "",
+            "Supplier Part": "C8093",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "LCEDA_01",
+            "spiceSymbolName": "SEG-TH_0.56×1_Cathode",
+            "puuid": "578a9f84d0884b7fb0d3f89c2458867d",
+            "uuid": "dfdf002ec1484d0fad523511076b340d"
+          }
+        ],
+        [
+          "74X245",
+          2,
+          "IC20",
+          "U1,U6",
+          {
+            "Contributor": "KiCad",
+            "spiceSymbolName": "74X245",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "f400981b32064fd08f8ca81cc9913fbf"
+          }
+        ],
+        [
+          "MD8284A/B",
+          1,
+          "CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL",
+          "U2",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3610662",
+            "Manufacturer": "罗彻斯特",
+            "Manufacturer Part": "MD8284A/B",
+            "link": "https://lcsc.com/eda_search?q=C3610662&%26type=1&ref=editor",
+            "spiceSymbolName": "MD8284A/B",
+            "puuid": "44f24d2bbe6f46ab811d4dfad0dcdce5",
+            "uuid": "db377777d18248318c8bf9fb32fe03fb"
+          }
+        ],
+        [
+          "AT27C1024-70JU-T",
+          1,
+          "PLCC-44_L16.6-W16.6-P1.27-LS17.5-T",
+          "U4",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2061096",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Manufacturer Part": "AT27C1024-70JU-T",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2061096&%26type=1&ref=editor",
+            "spiceSymbolName": "AT27C1024-70JU-T",
+            "puuid": "892ce0ce14f24d3b821c5d091a35780b",
+            "uuid": "61e99aea7ae4418b97f176260d901a89"
+          }
+        ],
+        [
+          "LY625128SL-55LLI",
+          4,
+          "SOP-32_L20.7-W11.3-P1.27-LS14.1-BL",
+          "U5,U7,U12,U21",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C261870",
+            "Manufacturer": "Lyontek(来扬)",
+            "Manufacturer Part": "LY625128SL-55LLI",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C261870&%26type=1&ref=editor",
+            "spiceSymbolName": "LY625128SL-55LLI",
+            "puuid": "20874a12a96e40a783ce11d314a15c19",
+            "uuid": "38abdfb0b97c4f71a493b25aabbac501"
+          }
+        ],
+        [
+          "8086MIN",
+          1,
+          "DIP40",
+          "U8",
+          {
+            "spiceSymbolName": "8086MIN",
+            "Manufacturer Part": "",
+            "puuid": "44a1693bc7854116bd8e6d16b2b3ee36",
+            "uuid": "f952cec763f94201a597f09c30206ce0"
+          }
+        ],
+        [
+          "74X373",
+          11,
+          "",
+          "U9,U10,U11,U37,U38,U39,U40,U41,U42,U43,U44",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "ioana",
+            "spiceSymbolName": "74X373",
+            "puuid": "",
+            "uuid": "10113c0feaf140a5a6b590b6e069ad91"
+          }
+        ],
+        [
+          "8255A",
+          1,
+          "DIP-40_W15.24MM",
+          "U13",
+          {
+            "Contributor": "Aptoime TV",
+            "spiceSymbolName": "8255A",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "81abc5999b1f4541837195bff8d31e41"
+          }
+        ],
+        [
+          "8251A",
+          1,
+          "COMM-TH_CTM8251AT",
+          "U14",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C404254",
+            "Manufacturer": "Tsiko",
+            "Manufacturer Part": "CTM8251AT",
+            "Contributor": "Cristina Nicolae",
+            "spiceSymbolName": "8251A",
+            "puuid": "d5f33f3c6b284df084f205eeaf82c647",
+            "uuid": "7837dc9444fe4f86af267b132e5a76af"
+          }
+        ],
+        [
+          "74X373N",
+          3,
+          "DIP20",
+          "U15,U31,U32",
+          {
+            "description": "Octal Transparent Latch with 3-State Outputs",
+            "Manufacturer Part": "74X373",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "mircioaga iulia",
+            "spiceSymbolName": "74X373N",
+            "puuid": "60a80c2ebad74bbdbc99c5c8336f8dae",
+            "uuid": "523365e3979c4fb0a6fae05c4d8b9566"
+          }
+        ],
+        [
+          "2.768KHZ",
+          1,
+          "CRYSTAL-SMD_L3.2-W1.5-1",
+          "U16",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900022434",
+            "Manufacturer": "null",
+            "Manufacturer Part": "2.768KHz",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C9900022434&%26type=1&ref=editor",
+            "spiceSymbolName": "2.768KHZ",
+            "puuid": "cb6dc8e63f7141709db677dfda6b4bfd",
+            "uuid": "2795175d74774c50a4d477369d54edd8"
+          }
+        ],
+        [
+          "HD74LV1G08AVS",
+          9,
+          "PUSN0005KA-A",
+          "U17,U22,U23,U24,U25,U26,U27,U28,U29",
+          {
+            "description": "2-Input AND Gate",
+            "spiceSymbolName": "HD74LV1G08AVS",
+            "Manufacturer Part": "",
+            "puuid": "454f34f2ecfb494c8743f430a1be5f5e",
+            "uuid": "0fe05556ebed4b44aae93579cb814825"
+          }
+        ],
+        [
+          "Timer8253",
+          1,
+          "DIP-24__600",
+          "U18",
+          {
+            "Supplier": "",
+            "Supplier Part": "P8253",
+            "Manufacturer": "INTEL",
+            "Manufacturer Part": "P8253",
+            "Contributor": "Radu_matei",
+            "link": "https://pdf1.alldatasheet.com/datasheet-pdf/view/66100/INTEL/P8253.html",
+            "spiceSymbolName": "Timer8253",
+            "puuid": "5e9770a7accb402aa37ffd4de9c587a0",
+            "uuid": "1bfd1aacc05943cdac124fed54c0f09e"
+          }
+        ],
+        [
+          "MAX232AEPE",
+          1,
+          "DIP-16_L20.0-W6.4-P2.54-LS7.6-BL",
+          "U19",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "MAXIM",
+            "Manufacturer Part": "MAX232AEPE",
+            "Supplier Part": "C9942",
+            "link": "https://lcsc.com/eda_search?q=C9942&%26type=1&ref=editor",
+            "spiceSymbolName": "MAX232AEPE",
+            "puuid": "f2561f0fa47346d3a02d341f9e29ef9e",
+            "uuid": "befb341c6f8bdb97dab1adf4588d2553"
+          }
+        ],
+        [
+          "74X138",
+          3,
+          "IC16",
+          "U20,U33,U45",
+          {
+            "Contributor": "KiCad",
+            "spiceSymbolName": "74X138",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "146e283a2ef4423594bc3e76903bd89d"
+          }
+        ],
+        [
+          "74X244 (АП5)",
+          1,
+          "DIP20",
+          "U30",
+          {
+            "Contributor": "KiCad",
+            "spiceSymbolName": "74X244 (АП5)",
+            "Manufacturer Part": "",
+            "puuid": "60a80c2ebad74bbdbc99c5c8336f8dae",
+            "uuid": "5024af68f9b64f9bb27162fe418e0558"
+          }
+        ],
+        [
+          "InvertorSmall",
+          11,
+          "",
+          "U34,U35,U36,U46,U47,U48,U49,U50,U51,U52,U53",
+          {
+            "spiceSymbolName": "LOGIC",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Bilal Khan",
+            "sim": "true",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "822b968a85b44cb494ed9638ba22433e"
+          }
+        ]
+      ],
+      "updateTime": 1702604841,
+      "createTime": 1701702879,
+      "histories": [],
+      "created_at": "2023-12-04 17:14:39",
+      "updated_at": "2023-12-15 03:47:21"
+    }
+  ],
+  "sort": [],
+  "title": "PMD_PROJECT_var2",
+  "foldername": "PMD_PROJECT_var2",
+  "schfilename": "PMD_PROJECT_var2.json",
+  "schfilemtime": 1702604841910
+}
